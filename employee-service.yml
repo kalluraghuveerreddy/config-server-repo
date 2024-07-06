@@ -1,7 +1,7 @@
 server:
   port: 6666
 myapp:
-  version: V1.2
+  version: V1.3
 
 eureka:
   client:
