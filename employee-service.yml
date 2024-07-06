@@ -20,3 +20,6 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
         format_sql: true
 
+employee:
+service:
+version:V1.0
