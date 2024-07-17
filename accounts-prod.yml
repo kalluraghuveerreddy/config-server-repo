@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to IndiaBank accounts related local Prod APIs"
   contactDetails:
     name: "Deepika - Prod Lead"
-    email: "deepika@indiabank.com"
+    email: "{cipher}ad782039915e60ccbba61ac0ff90515a3be2e8d00833bc8b4f0db1380c45336cb00550fba3ad71ec844b77daf9731ba7"
   onCallSupport:
     - (+91) 8978513016
     - (+1) 5240-1345
