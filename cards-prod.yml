@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome to IndiaBank cards related local Production APIs"
+  message: "Welcome to IndiaBank cards related local Prod APIs"
   contactDetails:
     name: "Deepika - Prod Lead"
     email: "deepika@indiabank.com"
