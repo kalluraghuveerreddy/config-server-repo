@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+loans:
+  message: "This is the Loans Microservice in IndiaBank local APIs"
+  contactDetails:
+    name: "Dilip Reddy - Senior Software Engineer"
+    email: "dilip@indiabank.com"
+  onCallSupport:
+    - (+91) 362426378
+    - (+1) 5555-5555

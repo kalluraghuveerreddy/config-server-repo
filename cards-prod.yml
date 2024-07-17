@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to IndiaBank cards related local Prod APIs"
+  contactDetails:
+    name: "Deepika - Prod Lead"
+    email: "deepika@indiabank.com"
+  onCallSupport:
+    - (+91) 8978513016
+    - (+1) 5240-1345

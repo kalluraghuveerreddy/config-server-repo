@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to IndiaBank cards related local  APIs"
+  contactDetails:
+    name: "Deepika - Dev Lead"
+    email: "deepika@indiabank.com"
+  onCallSupport:
+    - (+91) 8978513016
+    - (+1) 5240-1345

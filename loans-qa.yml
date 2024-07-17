@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: 2.0
+
+loans:
+  messages: "This is the Loans Microservice in IndiaBank local QA APIs"
+  contactDetails:
+    name: "Satya Reddy - Senior QA Engineer"
+    email: "satya@indiabank.com"
+  onCallSupport:
+    - (+91) 3624233378
+    - (+1) 5555-3333

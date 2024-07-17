@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to IndiaBank accounts related local APIs"
+  contactDetails:
+    name: "Raghuveer Reddy - Developer"
+    email: "raghu@indiabank.com"
+  onCallSupport:
+    - (+91) 8978513016
+    - (+1) 523-1345

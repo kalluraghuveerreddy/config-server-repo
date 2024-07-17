@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to IndiaBank accounts related local QA APIs"
+  contactDetails:
+    name: "Sravya Kurapati - QA Lead"
+    email: "sravya@indiabank.com"
+  onCallSupport:
+    - (+91) 8978513016
+    - (+1) 5240-1345
