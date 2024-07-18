@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "This is the Loans Microservice in IndiaBank local Prod APIs"
+  message: "This is the Loans Microservice in IndiaBank local Webhook APIs"
   contactDetails:
     name: "Ramya - Senior Support Engineer"
     email: "ramya@indiabank.com"
