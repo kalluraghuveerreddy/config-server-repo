@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to IndiaBank accounts related docker Webhooks APIs"
+  message: "Welcome to IndiaBank accounts related docker APIs"
   contactDetails:
     name: "Deepika - Prod Lead"
     email: "{cipher}ad782039915e60ccbba61ac0ff90515a3be2e8d00833bc8b4f0db1380c45336cb00550fba3ad71ec844b77daf9731ba7"
